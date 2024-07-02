@@ -7,6 +7,7 @@ func SignUp() {
 }
 
 func Login() {
+
 	fmt.Println("Calling Login Function")
 }
 
@@ -16,4 +17,7 @@ func GetUsers() {
 
 func GetUserByID() {
 	fmt.Println("Calling GetUserByID Function")
+
 }
+
+
