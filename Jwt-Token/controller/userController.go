@@ -8,12 +8,16 @@ func SignUp() {
 
 func Login() {
 
+	fmt.Println("Calling Login Function")
 }
 
 func GetUsers() {
-
+	fmt.Println("Calling GetUsers Function")
 }
 
 func GetUserByID() {
+	fmt.Println("Calling GetUserByID Function")
 
 }
+
+
